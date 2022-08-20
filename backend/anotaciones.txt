@@ -1,0 +1,35 @@
+git push --set-upstream origin main
+
+
+npx create-react-app <name>
+
+npm i react-router-dom
+
+npm install express
+
+npm install uniqid
+
+npm install aos
+
+npm install axios
+
+npm install body-parser
+
+npm install -g nodemon
+
+npm install --save-dev nodemon
+
+nodemon <name.js>
+
+//if is Restricted
+PS C:\Users\LINQ> Get-ExecutionPolicy
+Restricted
+
+PS C:\Users\LINQ> Set-ExecutionPolicy RemoteSigned
+PS C:\Users\LINQ> Get-ExecutionPolicy
+RemoteSigned
+
+netstat -ano | findstr :<PORT>
+taskkill /PID <PID> /F
+
+https://www.youtube.com/watch?v=8s_ZbPkPkRk
