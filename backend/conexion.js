@@ -1,5 +1,5 @@
 const mongoose =require('mongoose');
-mongoose.connect('localhost');
+mongoose.connect('mongodb+srv://josevflores911:19274746@cluster0.lta12.mongodb.net/MERNproducts');
 
 const objectDb =  mongoose.connection
 
