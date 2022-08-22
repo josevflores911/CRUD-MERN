@@ -33,3 +33,13 @@ netstat -ano | findstr :<PORT>
 taskkill /PID <PID> /F
 
 https://www.youtube.com/watch?v=8s_ZbPkPkRk
+
+
+//heroku
+git init
+heroku git:remote -a sleepy-meadow-47211
+git add .
+git commit -am "make it better"
+heroku buildpacks:set heroku/nodejs
+git push heroku master
+->alternative-> git checkout -b main
