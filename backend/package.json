@@ -8,9 +8,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js start"
+    
   },
   "repository": {
     "type": "git",

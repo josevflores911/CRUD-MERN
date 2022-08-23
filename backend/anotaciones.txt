@@ -50,3 +50,6 @@ https://sleepy-meadow-47211.herokuapp.com/  (front)
 
 
 ->(gitignore)variables.env
+
+//"dev": "react-scripts start",
+    //"build": "react-scripts build"
