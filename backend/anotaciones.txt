@@ -43,3 +43,7 @@ git commit -am "make it better"
 heroku buildpacks:set heroku/nodejs
 git push heroku master
 ->alternative-> git checkout -b main
+
+https://infinite-taiga-20217.herokuapp.com/ (back)
+
+https://sleepy-meadow-47211.herokuapp.com/  (front)
