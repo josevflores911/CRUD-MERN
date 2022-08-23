@@ -47,3 +47,6 @@ git push heroku master
 https://infinite-taiga-20217.herokuapp.com/ (back)
 
 https://sleepy-meadow-47211.herokuapp.com/  (front)
+
+
+->(gitignore)variables.env
